@@ -500,4 +500,4 @@ Defaults in bold; change them when you start coding.
 ## 16. Prior work this builds on
 
 - **[Music organizer (no LLM)](https://github.com/Keyvantajfar/MusicOrg):** metadata to `Artist/Album/Track`, output via hard links so the original is untouched. Becomes the `music` plugin and the template for the `stage` strategy.
-- **Obsidian notes organizer (LLM demo):** read everything, propose a structure, talk to the user to finalize it, then tag and place notes chunk by chunk with accept/reject. Becomes the `obsidian` plugin and the template for the review loop.
+- **[Obsidian notes organizer (LLM)](https://github.com/Keyvantajfar/Obsidian-Note-Manager):** read everything, propose a structure, talk to the user to finalize it, then tag and place notes chunk by chunk with accept/reject. Becomes the `obsidian` plugin and the template for the review loop.
